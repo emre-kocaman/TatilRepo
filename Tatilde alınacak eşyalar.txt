@@ -1,20 +1,22 @@
-Þarj aleti
-Powerbank
-Kulaklýk
-Çorap 2x
-Güneþ kremi
-Deniz þortu 3x
-Tiþört 7x
+Þarj aleti +
+Powerbank +
+Kulaklýk +
+Çorap 2x +
+Deniz þortu 3x +
+Tiþört 7x +
+Plaj havlusu +
+Týrnak makasý +
+Güneþ gözlüðü +
+Deniz gözlüðü +
+Diþ fýrçasý +
+Boxer 5x +
+Ýlaç +
+
+
+Alýnacak:
+Güneþ kremi 
+Deniz þortu 2x
 Terlik
-Plaj havlusu
-Þampuan
-Týrnak makasý
-Güneþ gözlüðü
-Deniz gözlüðü
-Diþ macunu-fýrçasý
-Boxer 5x
-Ýlaç
+Þampuan 
+Diþ macunu
 Deodorant
-
-
-
